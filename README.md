@@ -1,6 +1,9 @@
 # Latihan-Inheritance
 Latihan 1, Inheritance
 
+NAMA : MUHAMMAD RAFI FADILLAH
+NIM " 255150207111043
+
 Latihan berikut untuk mempelajari konsep class, object, dan inheritance dengan cara
 membuat super class dengan nama BidangDuaDimensi yang mempunyai atribut nama, membuat contructor dari class BidangDuaDimensi, Superclass (BidangDuaDimensi) mempunyai method info() dan method luas(), method Info() di superclass akan mencetak nilai atribut nama, method luas belum di definisikan, membuat subclass BujurSangkar yang mempunyai atribut sisi, subclass BujurSangkar adalah subclass dari superclass BidangDuaDimensi, membuat contructor dari class BidangDuaDimensi, melakukan overriding dari method luas() yang berada di superclass, seperti saat membangun subclass BujurSangkar, buat subclass Lingkaran, lalu mengimplementasikan di kelas App.
 
