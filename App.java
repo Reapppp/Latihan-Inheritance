@@ -1,4 +1,4 @@
-package LatihanEnheritance;
+package LatihanInheritance;
 
 class App {
     public static void main(String[] args) {

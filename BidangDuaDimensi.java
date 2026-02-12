@@ -1,4 +1,4 @@
-package LatihanEnheritance;
+package LatihanInheritance;
 
 class BidangDuaDimensi {
     protected String nama;

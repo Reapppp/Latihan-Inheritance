@@ -1,4 +1,4 @@
-package LatihanEnheritance;
+package LatihanInheritance;
 
 class BujurSangkar extends BidangDuaDimensi {
     protected int sisi;

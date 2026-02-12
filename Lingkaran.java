@@ -1,4 +1,4 @@
-package LatihanEnheritance;
+package LatihanInheritance;
 
 class Lingkaran extends BidangDuaDimensi {
     protected int sisi;
