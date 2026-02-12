@@ -1,2 +1,2 @@
-# Latihan-Enheritance
-Latihan 1, Enhertiance
+# Latihan-Inheritance
+Latihan 1, Inheritance
