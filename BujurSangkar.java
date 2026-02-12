@@ -8,6 +8,7 @@ class BujurSangkar extends BidangDuaDimensi {
         this.sisi = sisi;
     }
 
+    @Override
     public void luas() {
         System.out.println("Luas = " + sisi*sisi);
     }

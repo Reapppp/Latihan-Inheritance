@@ -8,6 +8,7 @@ class Lingkaran extends BidangDuaDimensi {
         this.sisi = sisi;
     }
 
+    @Override
     public void luas() {
         System.out.println("Luas = " + 3.14*sisi*sisi);
     }
